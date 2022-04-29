@@ -1,0 +1,10 @@
+@mixin flex-center-beetwen {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@mixin grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
