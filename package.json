@@ -35,5 +35,15 @@
   "browserslist": [
     ">1%"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "choices.js": "^10.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmmaaxii/gulp-assembling.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmmaaxii/gulp-assembling/issues"
+  },
+  "homepage": "https://github.com/mmmaaxii/gulp-assembling#readme"
 }
